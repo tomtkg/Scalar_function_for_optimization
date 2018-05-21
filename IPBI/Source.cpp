@@ -25,7 +25,7 @@ int main() {
 			array[1] = k;
 			namda[0] = (double)array[0] / c;
 			namda[1] = (double)array[1] / c;
-			
+
 			double yd = 0.0;
 			for (int n = 0; n < num; n++)
 				yd += pow(namda[n], 2);
@@ -37,7 +37,7 @@ int main() {
 			vector <double> realB(num);
 
 			for (int n = 0; n<num; n++)
-				realA[n] = (f[n] - z[n]);
+				realA[n] = (w[n] - f[n]);
 
 			double la = 0.0;
 			for (int n = 0; n < num; n++)
@@ -46,7 +46,7 @@ int main() {
 			double d1 = fabs(la);
 
 			for (int n = 0; n < num; n++)
-				realB[n] = (f[n] - (z[n] + d1*namda[n]));
+				realB[n] = ((w[n] - f[n]) - d1*namda[n]);
 
 			double lb = 0.0;
 			for (int n = 0; n < num; n++)
@@ -54,7 +54,7 @@ int main() {
 
 			double d2 = sqrt(lb);
 
-			double max_fun = d1 + 5 * d2;
+			double max_fun = d1 - 5 * d2;
 
 			cout << f[0] << " " << f[1] << " " << max_fun << endl;
 		}
