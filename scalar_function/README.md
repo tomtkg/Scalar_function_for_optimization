@@ -1,1 +1,0 @@
-# Scalar function for optimization
