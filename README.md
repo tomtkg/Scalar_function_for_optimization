@@ -10,5 +10,6 @@ Visual Studio 2015 C++で製作されています．
 kの値を変更することで重みの比を変更できます.  
 cの値も変更することで重みをより柔軟に変更できます．  
 
-![Alt text](/TCH/TCH_2_3.jpg)
+example TCH
+![image](https://github.com/tomtkg/Scalar_function_for_optimization/tree/master/TCH/TCH_2_3.jpg)
 
