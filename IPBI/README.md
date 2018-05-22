@@ -7,8 +7,8 @@
 PBI‚ªIdeal point‚ðŽg‚¤‚Ì‚É‘Î‚µ‚ÄIPBI‚Íreference point‚ðŽg‚¢‚Ü‚·  
 
 ## image  
-|![image1](IPBI0.5_3_2.png "IPBI0.5_3_2.png")|![image2](IPBI0.5_1_1.png "IPBI0.5_1_1.png")|![image3](IPBI0.5_2_3.png "IPBI0.5_2_3.png")|
+|![image1](../image/IPBI0.5_3_2.png "IPBI0.5_3_2.png")|![image2](../image/IPBI0.5_1_1.png "IPBI0.5_1_1.png")|![image3](../image/IPBI0.5_2_3.png "IPBI0.5_2_3.png")|
 |---|---|---|
-|![image1](IPBI1_3_2.png "IPBI1_3_2.png")|![image2](IPBI1_1_1.png "IPBI1_1_1.png")|![image3](IPBI1_2_3.png "IPBI1_2_3.png")|
-|![image1](IPBI2_3_2.png "IPBI2_3_2.png")|![image2](IPBI2_1_1.png "IPBI2_1_1.png")|![image3](IPBI2_2_3.png "IPBI2_2_3.png")|
-|![image1](IPBI5_3_2.png "IPBI5_3_2.png")|![image2](IPBI5_1_1.png "IPBI5_1_1.png")|![image3](IPBI5_2_3.png "IPBI5_2_3.png")|
+|![image1](../image/IPBI1_3_2.png "IPBI1_3_2.png")|![image2](../image/IPBI1_1_1.png "IPBI1_1_1.png")|![image3](../image/IPBI1_2_3.png "IPBI1_2_3.png")|
+|![image1](../image/IPBI2_3_2.png "IPBI2_3_2.png")|![image2](../image/IPBI2_1_1.png "IPBI2_1_1.png")|![image3](../image/IPBI2_2_3.png "IPBI2_2_3.png")|
+|![image1](../image/IPBI5_3_2.png "IPBI5_3_2.png")|![image2](../image/IPBI5_1_1.png "IPBI5_1_1.png")|![image3](../image/IPBI5_2_3.png "IPBI5_2_3.png")|

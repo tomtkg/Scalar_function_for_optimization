@@ -5,5 +5,5 @@ TCHは重みベクトルを乗算するのに対し，rTCHは重みベクトルで除算します．
 TCHよりスカラー化関数値のスケールが大きくなっています．  
 
 ## image  
-|![image1](rTCH_3_2.png "rTCH_3_2.png")|![image2](rTCH_1_1.png "rTCH_1_1.png")|![image3](rTCH_2_3.png "rTCH_2_3.png")|
+|![image1](../image/rTCH_3_2.png "rTCH_3_2.png")|![image2](../image/rTCH_1_1.png "rTCH_1_1.png")|![image3](../image/rTCH_2_3.png "rTCH_2_3.png")|
 |---|---|---|
