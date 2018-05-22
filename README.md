@@ -22,13 +22,13 @@ cの値も変更することで重みをより柔軟に変更できます．
 |---|---|---|
 ## Penalty-based Boundary Intersection approach
 |![image1](image/PBI0.5_3_2.png "PBI0.5_3_2.png")|![image2](image/PBI0.5_1_1.png "PBI0.5_1_1.png")|![image3](image/PBI0.5_2_3.png "PBI0.5_2_3.png")|
+|---|---|---|
 |![image1](image/PBI1_3_2.png "PBI1_3_2.png")|![image2](image/PBI1_1_1.png "PBI1_1_1.png")|![image3](image/PBI1_2_3.png "PBI1_2_3.png")|
 |![image1](image/PBI2_3_2.png "PBI2_3_2.png")|![image2](image/PBI2_1_1.png "PBI2_1_1.png")|![image3](image/PBI2_2_3.png "PBI2_2_3.png")|
-|---|---|---|
 ## Inverted Penalty-based Boundary Intersection approach
 |![image1](image/PBI5_3_2.png "PBI5_3_2.png")|![image2](image/PBI5_1_1.png "PBI5_1_1.png")|![image3](image/PBI5_2_3.png "PBI5_2_3.png")|
+|---|---|---|
 |![image1](image/IPBI0.5_3_2.png "IPBI0.5_3_2.png")|![image2](image/IPBI0.5_1_1.png "IPBI0.5_1_1.png")|![image3](image/IPBI0.5_2_3.png "IPBI0.5_2_3.png")|
 |![image1](image/IPBI1_3_2.png "IPBI1_3_2.png")|![image2](image/IPBI1_1_1.png "IPBI1_1_1.png")|![image3](image/IPBI1_2_3.png "IPBI1_2_3.png")|
 |![image1](image/IPBI2_3_2.png "IPBI2_3_2.png")|![image2](image/IPBI2_1_1.png "IPBI2_1_1.png")|![image3](image/IPBI2_2_3.png "IPBI2_2_3.png")|
 |![image1](image/IPBI5_3_2.png "IPBI5_3_2.png")|![image2](image/IPBI5_1_1.png "IPBI5_1_1.png")|![image3](image/IPBI5_2_3.png "IPBI5_2_3.png")|
-
