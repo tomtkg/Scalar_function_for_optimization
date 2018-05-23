@@ -1,0 +1,25 @@
+reset
+unset key
+set size squre
+set isosample 100,100
+set size square
+set palette rgbformulae 22,13,-31 # “øF‚É
+set palette maxcolors 10
+
+set pm3d map
+set terminal png transparent
+splot 'log.txt' u 1:2:3 with points pt 7 ps 1.0 lc  palette
+set out "image1.png"
+replot
+
+unset pm3d
+set xr[0.0:1.0]
+set yr[0.0:1.0]
+unset xtics
+unset ytics
+unset border
+plot x w l lw 5 lc "black"
+set terminal png transparent
+set out "image2.png"
+replot
+reset
