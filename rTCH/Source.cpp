@@ -19,7 +19,7 @@ int main() {
 	vector <double> f(num);				//solution position
 	for (int i = 1; i <= 100; i++) {
 		f[0] = i*0.01;
-		for (double j = 1; j <= 100; j++) {
+		for (int j = 1; j <= 100; j++) {
 			f[1] = j*0.01;
 			array[0] = c - k;
 			array[1] = k;
